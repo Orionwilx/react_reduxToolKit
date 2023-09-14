@@ -9,9 +9,9 @@ function App() {
     <div className="App">
       <h1>Hola mundo</h1>
 
-
-      <TaskList/>
       <TaskForm/>
+      <TaskList/>
+      
 
     </div>
   );
